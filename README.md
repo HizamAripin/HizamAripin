@@ -14,9 +14,7 @@
 - Tools: Git & GitHub, VS Code, Figma
 
 ## 📫 Let's Connect!
-- Email: hizamaripin@gmail.com
-- LinkedIn: [linkedin.com/in/hizamaripin](https://linkedin.com/in/hizamaripin)
-- GitHub: [github.com/hizamaripin](https://github.com/hizamaripin)
+- Email: hizamarifin24@gmail.com
 
 ---
 
