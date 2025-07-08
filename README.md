@@ -32,7 +32,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" alt="Bootstrap"/>
 
   <!-- Frameworks -->
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg](https://www.google.com/search?vsrid=COKO5df_kaq1pgEQAhgBIiQwYzA5NjBjNS02NjI4LTRjZjMtOGRhYi05ZWEzMTUwYWNhMzUyBiICdGEoDjjgxdThqKyOAw&vsint=CAIqDAoCCAcSAggKGAEgATojChYNAAAAPxUAAAA_HQAAgD8lAACAPzABEKwCGKgBJQAAgD8&udm=26&lns_mode=un&source=lns.web.gisivli&vsdim=300,168&gsessionid=OWleg7kBks2X_qMv7sxEExITLVbtqt0hgx_wtGkcM195BKQRAxXvhQ&lsessionid=1tOF6eYOzGpLvoyUFIiCJwrVavTudN2qq2myEqhsbA9eRCu8zLpacg&lns_surface=19&authuser=0&lns_vfs=e&qsubts=1751945281617&biw=1536&bih=730&ved=0CBUQh6cGahcKEwiYqKPgqKyOAxUAAAAAHQAAAAAQBA&tbnid=kbguLfeDbZ4kiM&ictx=2)" width="50" alt="Laravel"/>
+  <img src="https://laravel.com/img/logomark.min.svg" width="50" alt="Laravel"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" alt="Flutter"/>
 
   <!-- Tools -->
